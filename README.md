@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andres Buitrago
+- 👋 Hi, I’m Andrew
 - 🌱 I got my bachelor’s degree in computer science as a System Engineer, where I learned about different programming languages, mainly JAVA, however after work a few years as Tech Lead in corporate, I starting to re-build a my profile as I´m looking forward become a Software developer. 
 💞️ I learned and continuesly learningn multiple Front-End technologies/Languages (HTML, CSS, JS, React.JS, Next.JS) I also have work in some small projects using JAVA.  
 I continue studing to expand my knowledge on the language I already learned and learning new languages and technologies.
